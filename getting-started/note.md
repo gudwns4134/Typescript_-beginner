@@ -1,0 +1,1 @@
+npm i typescript -g 설치 해줘야 ts 명령어를 사용 할 수 있다.
